@@ -1,0 +1,102 @@
+* {
+  font-family: Lato;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+body{
+    background-image:Url(https://raw.githubusercontent.com/u4saif/4covid19/master/bg.jpg);
+    width: 100%;
+    height: 100%;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+  
+  
+
+
+}
+
+.container{
+      
+    background-color:white;
+    padding: 50px;
+    margin: 10px;
+    width: auto;
+    align-content: center;
+    border-radius: 20px;
+    padding-bottom : 100px;
+    box-shadow: 0px 0px 7px 0px;
+    margin-right: 12px;
+
+}
+
+ 
+
+.app-title p{
+    padding: 0px;
+    margin: 0px;
+    color: #293251;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+
+}
+
+
+
+
+
+.description span{
+    color: #293251;
+    font-size: 1.4em;
+}
+
+.description p{
+    padding: 0px;
+    margin: 0px;
+    color: #293251;
+    text-align: center;
+    font-size: 2.2em;
+}
+
+
+.copyright p {
+    margin-top: 5em;
+    margin-bottom: 0em;
+    padding: 0.5em;
+    font-weight: normal;
+    font-size: small;
+    text-shadow:2px solid deepskyblue;
+    text-align: center;
+    color: #293251;
+}
+.copyright p span{
+  font-size: 1.7em;
+  font-weight: bold;
+}
+
+.co{
+    width: 100%;
+  height: auto;
+    display: block;
+    margin: auto;
+  
+}
+
+
+#header h1
+    {position: relative;
+    border: 0 none transparent;
+    font-size: 2em;
+    margin: 1em auto;
+     
+    }
+#header img
+    {position: relative;
+    top: 0;
+    left: 0;
+    width: 80px;
+    height: 80px;
+    }

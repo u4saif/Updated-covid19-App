@@ -1,0 +1,19 @@
+
+ 
+.btn-info{
+  
+  margin-left: 4px;
+  align-content: center;
+  margin-bottom: 4px;
+}
+.b2{
+  margin-left: 10px;
+}
+
+update{
+  transition: 5s ease-in;
+}
+
+stateupdate{
+  transition: 5s ease;
+}

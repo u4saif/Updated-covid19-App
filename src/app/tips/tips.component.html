@@ -1,0 +1,14 @@
+
+<div *ngFor="let i of newsData;" class="par">
+
+<div class='card'>
+ <a href="{{i.url}}" target="_blank"><img src="{{i.urlToImage}}"  onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/u4saif/Corona-Virus-Dashboard-COVID19-/master/icon.jpg';"/>
+
+<h4>{{i.title}}</h4> 
+<h5>{{i.discription}}</h5>
+<h6>{{i.content | inshort}}</h6>
+ </a>
+</div>
+
+</div>
+ 

@@ -1,0 +1,21 @@
+<hello name=" {{ name }} "></hello>
+
+<button class="btn btn-info"  (click)="this.view='update'"> 
+   All India </button>
+  
+<button class="btn btn-info b2" (click)="this.view='stateUpdates'"> 
+  States Report </button>
+<button class="btn btn-info b2" (click)="this.view='faq'">Awareness
+</button>
+<button class="btn btn-info b2" (click)="this.view='news'"> News</button>
+
+  
+<div [ngSwitch]="view"> 
+
+<update *ngSwitchCase="'update'"> </update>
+
+<stateupdate *ngSwitchCase="'stateUpdates'"> </stateupdate>
+<faq *ngSwitchCase="'faq'"></faq>
+<tips *ngSwitchCase="'news'"></tips>
+<update *ngSwitchDefault></update>
+</div>
