@@ -14,6 +14,8 @@ Deployed the Online Site using Angular framework on StackBlitz platform.
 
 ![awearnes](https://raw.githubusercontent.com/u4saif/Updated-covid19-App/master/OUtput/awear.png) ![news](https://raw.githubusercontent.com/u4saif/Updated-covid19-App/master/OUtput/newa.png)
 
+![Analytica](https://github.com/u4saif/Updated-covid19-App/blob/master/OUtput/image.png) ![Graph](https://github.com/u4saif/Updated-covid19-App/blob/master/OUtput/img2.png)
+
 
 
 
