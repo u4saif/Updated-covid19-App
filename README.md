@@ -6,7 +6,7 @@ Creted The Live Dashboard for tracking the Corona Virus (COVID19) in India. Fetc
 
 Deployed the Online Site using Angular framework on StackBlitz platform.
 
-[Check it Live](https://4covid19.stackblitz.io/) Or [Click Here](https://app4covid.web.app/)
+## [Click Here See the Project](https://app4covid.web.app/)
 
 **Output**
 
